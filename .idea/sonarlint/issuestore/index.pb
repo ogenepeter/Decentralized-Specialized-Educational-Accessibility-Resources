@@ -5,3 +5,5 @@ W
 'contracts/effectiveness-assessment.clar,6/2/620a193f393743d6fa8774db981645b901d75161
 V
 &tests/effectiveness-assessment.test.ts,a/7/a756631dfc5ef069503c2d7e67e1a5a3d10d3dd7
+R
+"contracts/adaptation-tracking.clar,9/4/94a13ad745c53cecd494662202fb8546c378dd46
